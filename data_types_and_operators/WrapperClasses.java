@@ -40,9 +40,7 @@ public class WrapperClasses {
             System.out.println("NPE пойман: попытка распаковать null");
         }
 
-        // -------------------------------
         // Практика 4 - пример с IntegerCache
-        // -------------------------------
 
         System.out.println("\n128 example:");
 
