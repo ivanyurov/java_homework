@@ -1,7 +1,5 @@
 package java_homework.classes_and_methods;
 
-// Файл AccessDemo.java
-
 // Класс с разными уровнями доступа
 class TestAccess {
 
